@@ -1,0 +1,26 @@
+img{
+  position: relative;
+  width: 200px;
+  height: 200px;
+  background-position: 50% 50%;
+  background-repeat: no-repeat;
+  background-size: cover; 
+}
+.cart{
+    float: right;
+    background-color: black;
+    height: 200vh;
+    width: 50%;
+}
+h1,h2,h3,h4,h5,h6{
+    color: aqua;
+}
+.products{
+    float: left;
+    background-color: gray;
+    height: 200vh;
+    width: 50%;
+}
+p{
+    color: aqua;
+}
